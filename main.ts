@@ -10,6 +10,6 @@ namespace task {
     //% blockId="TaskStop" block="stop task"
     //% blockGap=0 weight=0
     export function TaskStop(): void {
-        machine.disable_irq()
+        display.show(Image.SAD)
     }
 }
