@@ -1,0 +1,15 @@
+{
+    "name": "task",
+    "version": "0.0.1",
+    "description": "task ON/OFF",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh/task-strings.json"
+    ],
+    "public": true
+}
