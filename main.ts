@@ -3,12 +3,12 @@ namespace task {
     //% blockId="TaskStart" block="start task"
     //% blockGap=0 weight=0
     export function TaskStart(): void {
-        microbit.enable_irq()
+        machine.enable_irq()
     }
     
     //% blockId="TaskStop" block="stop task"
     //% blockGap=0 weight=0
     export function TaskStop(): void {
-        microbit.disable_irq()
+        machine.disable_irq()
     }
 }
