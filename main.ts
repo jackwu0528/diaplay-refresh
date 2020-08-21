@@ -3,12 +3,12 @@ namespace task {
     //% blockId="TaskStart" block="start task"
     //% blockGap=0 weight=0
     export function TaskStart(): void {
-        basic.showIcon(Happy)
+        basic.showIcon(IconNames.Happy)
     }
 
     //% blockId="TaskStop" block="stop task"
     //% blockGap=0 weight=0
     export function TaskStop(): void {
-        basic.showIcon(Sad)
+        basic.showIcon(IconNames.Sad)
     }
 }
