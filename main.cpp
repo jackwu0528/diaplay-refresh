@@ -5,13 +5,13 @@
 namespace task {
     //% blockId="TaskStart" block="start task"
     //% blockGap=0 weight=0
-    export function TaskStart(): void {
+    void TaskStart() {
         NRF_TIMER2->TASKS_START = 1;
     }
 
     //% blockId="TaskStop" block="stop task"
     //% blockGap=0 weight=0
-    export function TaskStop(): void {
+    void TaskStop() {
         NRF_TIMER2->TASKS_STOP = 1;
     }
 }
