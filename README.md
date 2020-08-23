@@ -1,3 +1,3 @@
-# diaplay_refresh_ON_OFF
+# diaplay refresh
 
 Diaplay Refresh ON/OFF
