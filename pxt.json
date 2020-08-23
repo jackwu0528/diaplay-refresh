@@ -8,8 +8,8 @@
     },
     "files": [
         "README.md",
-        "DisplayRefresh.cpp",
-        "DisplayRefresh.ts"
+        "timer2.cpp",
+        "main.ts"
     ],
     "public": true
 }
