@@ -9,7 +9,6 @@
     "files": [
         "README.md",
         "main.cpp",
-        "nrf51.h",
         "_locales/zh/task-strings.json"
     ],
     "public": true
