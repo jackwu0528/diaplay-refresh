@@ -2,13 +2,13 @@
 namespace task {
     //% blockId="TaskStart" block="start task"
     //% blockGap=0 weight=0
-    void TaskStart() {
+    export function TaskStart(): void {
         task.start();
     }
 
     //% blockId="TaskStop" block="stop task"
     //% blockGap=0 weight=0
-    void TaskStop() {
+    export function TaskStop(): void {
         task.stop();
     }
 }
