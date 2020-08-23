@@ -1,4 +1,4 @@
-//% weight=0 color=#3CB371 icon="\uf0ad" block="timer2SW"
+//% weight=0 color=#3CB371 icon="\uf0ad"
 namespace timer2SW {
     //% help=timer2SW/timer2-tasks-start
     //% weight=0
