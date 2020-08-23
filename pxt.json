@@ -7,7 +7,6 @@
     "files": [
         "README.md",
         "shims.d.ts",
-        "enums.d.ts",
         "timer2SW.cpp"
     ],
     "public": true
