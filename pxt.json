@@ -1,15 +1,12 @@
 {
-    "name": "DisplayRefresh",
-    "version": "0.0.1",
-    "description": "Diaplay Refresh ON/OFF",
-    "license": "MIT",
+    "name": "timer2SW",
+    "description": "timer2 tasks start/stop",
     "dependencies": {
         "core": "*"
     },
     "files": [
         "README.md",
-        "timer2.cpp",
-        "main.ts"
+        "timer2SW.cpp"
     ],
     "public": true
 }
