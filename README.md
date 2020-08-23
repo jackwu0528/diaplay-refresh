@@ -1,3 +1,3 @@
-# diaplay refresh
+# timer2SW
 
-Diaplay Refresh ON/OFF
+timer2 tasks start/stop
