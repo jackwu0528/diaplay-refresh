@@ -3,12 +3,12 @@ namespace DisplayRefresh {
     //% blockId="refresh_start" block="Diaplay Refresh Start"
     //% blockGap=0 weight=0
     export function Start(): void {
-        DisplayRefresh.timer2_tasks_start();
+        timer2_tasks_start();
     }
 
     //% blockId="refresh_stop" block="Diaplay Refresh Stop"
     //% blockGap=0 weight=0
     export function Stop(): void {
-        DisplayRefresh.timer2_tasks_stop();
+        timer2_tasks_stop();
     }
 }
