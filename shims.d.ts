@@ -1,3 +1,5 @@
+// Auto-generated. Do not edit.
+
 //% weight=0 color=#3CB371 icon="\uf0ad"
 declare namespace timer2SW {
     //% help=timer2SW/timer2-tasks-start
@@ -10,3 +12,5 @@ declare namespace timer2SW {
     //% blockId=timer2_tasks_stop block="timer2 tasks stop"
     function timer2_tasks_stop(): void;
 }
+    
+// Auto-generated. Do not edit. Really.
