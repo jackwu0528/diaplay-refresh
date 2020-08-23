@@ -1,8 +1,8 @@
 namespace task {
-    void Start() {
+    void start() {
         NRF_TIMER2->TASKS_START = 1;
     }
-    void Stop() {
+    void stop() {
         NRF_TIMER2->TASKS_STOP = 1;
     }
 }
