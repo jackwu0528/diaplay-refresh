@@ -8,7 +8,8 @@
     },
     "files": [
         "README.md",
-        "task.cpp"
+        "task.cpp",
+        "task.ts"
     ],
     "public": true
 }
