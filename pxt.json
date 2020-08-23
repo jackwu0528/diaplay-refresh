@@ -8,8 +8,8 @@
     },
     "files": [
         "README.md",
-        "diaplay_refresh.cpp",
-        "diaplay_refresh.ts"
+        "diaplay-refresh.cpp",
+        "diaplay-refresh.ts"
     ],
     "public": true
 }
