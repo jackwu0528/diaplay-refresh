@@ -1,15 +1,15 @@
 {
     "name": "task",
     "version": "0.0.1",
-    "description": "task ON/OFF",
+    "description": "Diaplay Refresh ON/OFF",
     "license": "MIT",
     "dependencies": {
         "core": "*"
     },
     "files": [
         "README.md",
-        "task.cpp",
-        "task.ts"
+        "diaplay_refresh_ON_OFF.cpp",
+        "diaplay_refresh_ON_OFF.ts"
     ],
     "public": true
 }
