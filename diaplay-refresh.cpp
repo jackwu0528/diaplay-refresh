@@ -1,4 +1,4 @@
-namespace diaplay_refresh_ON_OFF {
+namespace diaplay-refresh {
     void timer2_tasks_start() {
         NRF_TIMER2->TASKS_START = 1;
     }
