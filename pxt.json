@@ -1,5 +1,5 @@
 {
-    "name": "task",
+    "name": "DisplayRefresh",
     "version": "0.0.1",
     "description": "Diaplay Refresh ON/OFF",
     "license": "MIT",
@@ -8,8 +8,8 @@
     },
     "files": [
         "README.md",
-        "diaplay-refresh.cpp",
-        "diaplay-refresh.ts"
+        "DisplayRefresh.cpp",
+        "DisplayRefresh.ts"
     ],
     "public": true
 }
