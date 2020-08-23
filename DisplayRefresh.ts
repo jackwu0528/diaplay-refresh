@@ -1,9 +1,8 @@
+void timer2_tasks_start();
+void timer2_tasks_stop();
+
 //% weight=0 color=#3CB371 icon="\uf0ad" block="Diaplay Refresh"
 namespace DisplayRefresh {
-    
-    void timer2_tasks_start();
-    void timer2_tasks_stop();
-    
     //% blockId="refresh_start" block="Diaplay Refresh Start"
     //% blockGap=0 weight=0
     export function Start(): void {
