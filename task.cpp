@@ -1,7 +1,4 @@
 //% weight=0 color=#3CB371 icon="\uf0ad" block="Task"
-
-#include "nrf.h"
-
 namespace task {
     //% blockId="TaskStart" block="start task"
     //% blockGap=0 weight=0
