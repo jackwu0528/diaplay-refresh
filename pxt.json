@@ -8,7 +8,8 @@
     },
     "files": [
         "README.md",
-        "main.ts",
+        "main.cpp",
+        "nrf51.h",
         "_locales/zh/task-strings.json"
     ],
     "public": true
