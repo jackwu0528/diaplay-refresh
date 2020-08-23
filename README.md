@@ -1,6 +1,6 @@
-# task
+# diaplay_refresh_ON_OFF
 
-task ON/OFF
+Diaplay Refresh ON/OFF
 
 ## License
 
@@ -12,5 +12,5 @@ MIT
 (The metadata above is needed for package search.)
 
 ```package
-task=github:jackwu0528/task-on-off
+task=github:jackwu0528/diaplay-refresh-ON-OFF
 ```
