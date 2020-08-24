@@ -4,10 +4,12 @@
 declare namespace timer2SW {
     //% weight=0
     //% blockId=timer2_tasks_start block="timer2 tasks start"
+    //% shim=timer2SW::timer2_tasks_start
     function timer2_tasks_start(): void;
     
     //% weight=0
     //% blockId=timer2_tasks_stop block="timer2 tasks stop"
+    //% shim=timer2SW::timer2_tasks_stop
     function timer2_tasks_stop(): void;
 }
     
